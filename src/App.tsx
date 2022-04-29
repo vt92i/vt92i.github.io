@@ -6,14 +6,14 @@ function App() {
       <main className="bg-gray-600 flex flex-col items-center justify-center w-9/12 pt-4 pb-4">
         <h2 className="text-4xl md:text-6xl text-white pt-6 tracking-wide transition-all hover:scale-110">Hi, I am Vila.</h2>
 
-        <img className="m-6 filter saturate-25 w-48 h-48 ring-4 ring-white transition-all transform opacity-75 hover:scale-110 hover:opacity-100" src="https://raw.githubusercontent.com/vt92i/dvonick.surge.sh/main/assets/avatar.JPG" />
+        <img className="m-6 filter saturate-25 w-48 h-48 ring-4 ring-white transition-all transform opacity-75 hover:scale-110 hover:opacity-100" src="./avatar.JPG" />
 
         <div className="flex flex-row pt-2">
           <a className="pl-4 transition-transform transform hover:scale-125" href="https://github.com/vt92i" target="_blank" rel="noopener noreferrer">
-            <img className="w-8" src="https://raw.githubusercontent.com/vt92i/dvonick.surge.sh/main/assets/github.png" />
+            <img className="w-8" src="./github.png" />
           </a>
           <a className="pl-4 transition-transform transform hover:scale-125" href="https://twitter.com/wtsrz4" target="_blank" rel="noopener noreferrer">
-            <img className="w-8" src="https://raw.githubusercontent.com/vt92i/dvonick.surge.sh/main/assets/twitter.png" />
+            <img className="w-8" src="./twitter.png" />
           </a>
         </div>
 
